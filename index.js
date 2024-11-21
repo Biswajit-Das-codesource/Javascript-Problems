@@ -1,7 +1,6 @@
 // Find Duplicate word in sentence 
 
 let sentence= "hiii my my name name is biswajit das".split(" ")
-
 wordcount={}
 duplicate=[]
 for(let i of sentence){
