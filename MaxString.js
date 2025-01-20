@@ -1,3 +1,6 @@
+//find the largest string in an array after the combining the all string present in the array 
+
+
 function calculate(obj){
 
     // console.log(obj)
