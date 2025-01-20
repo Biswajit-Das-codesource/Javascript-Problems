@@ -20,6 +20,7 @@ function Amicable(num1,num2){
             num2Fact.push(j)
         }
     }
+    
     // console.log(num2Fact)
 
     //sum of factors of num1 and num2

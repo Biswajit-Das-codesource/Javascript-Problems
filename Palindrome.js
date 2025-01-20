@@ -10,6 +10,7 @@ function palindrome(sentence){
             Findpalindrome.push(i)
        }
     }
+    
     return Findpalindrome;
 }
 
@@ -18,6 +19,9 @@ let result = palindrome(sentence)
 if(result.length > 0){
     console.log("palindrome",result)
 }
+
+
+
 else{
     console.log("not")
 }
