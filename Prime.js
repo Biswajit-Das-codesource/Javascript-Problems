@@ -18,7 +18,3 @@ if(result.length > 2){
 else{
     console.log("Number is prime")
 }
-
-
-
-
