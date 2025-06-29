@@ -17,6 +17,7 @@ function calculate(obj){
         ""
       );
 
+      
 }
 
 obj = ["hello", "aja","apple","banana","pie"]

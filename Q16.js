@@ -1,4 +1,4 @@
-// Find the palindrome word in the sentence
+// // Find the palindrome word in the sentence
 
 let Findpalindrome=[]
 function palindrome(sentence){
@@ -20,8 +20,3 @@ if(result.length > 0){
     console.log("palindrome",result)
 }
 
-
-
-else{
-    console.log("not")
-}
